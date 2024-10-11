@@ -15,7 +15,9 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -59,7 +61,8 @@
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i
+                    class="bi bi-chevron-down toggle-dropdown"></i></a>
                 <ul>
                   <li><a href="#">Deep Dropdown 1</a></li>
                   <li><a href="#">Deep Dropdown 2</a></li>
@@ -87,7 +90,8 @@
     <div class="page-title dark-background">
       <div class="container position-relative">
         <h1>Blog</h1>
-        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
+        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam
+          molestias.</p>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="index.html">Home</a></li>
@@ -264,25 +268,7 @@
 
     </section><!-- /Blog Posts Section -->
 
-    <!-- Blog Pagination Section -->
-    <section id="blog-pagination" class="blog-pagination section">
 
-      <div class="container">
-        <div class="d-flex justify-content-center">
-          <ul>
-            <li><a href="#"><i class="bi bi-chevron-left"></i></a></li>
-            <li><a href="#">1</a></li>
-            <li><a href="#" class="active">2</a></li>
-            <li><a href="#">3</a></li>
-            <li><a href="#">4</a></li>
-            <li>...</li>
-            <li><a href="#">10</a></li>
-            <li><a href="#"><i class="bi bi-chevron-right"></i></a></li>
-          </ul>
-        </div>
-      </div>
-
-    </section><!-- /Blog Pagination Section -->
 
   </main>
 
@@ -313,7 +299,8 @@
   </footer>
 
   <!-- Scroll Top -->
-  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Preloader -->
   <div id="preloader"></div>
