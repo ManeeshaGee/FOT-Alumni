@@ -11,7 +11,6 @@ Class Database{
 	public function open(){
  		try{
  			$this->conn = new PDO($this->server, $this->username, $this->password, $this->options);
-			echo "No problem with database connection";
  			return $this->conn;
  		}
  		catch (PDOException $e){
@@ -27,5 +26,6 @@ Class Database{
     }
 
     $pdo = new Database();
-    //$pdo->open();
+    $pdo->open();
+    $conn = mysqli_connect('localhost','root','1234','newdb');
 ?>
