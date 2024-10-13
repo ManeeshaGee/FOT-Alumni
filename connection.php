@@ -27,5 +27,6 @@ Class Database{
     }
 
     $pdo = new Database();
-    //$pdo->open();
+    $pdo->open();
+    $conn = mysqli_connect('localhost','root','root','newdb');
 ?>
