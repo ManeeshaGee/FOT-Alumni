@@ -60,7 +60,9 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                  <img
+                    src="https://i.ytimg.com/vi/YdMeJh8i7w4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDUOn30-o1DFg3pYvxCHojpzClqCA"
+                    alt="" class="img-fluid">
                 </div>
 
                 <h2 class="title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
@@ -108,7 +110,9 @@
                     Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam
                     voluptatem voluptatem accusamus mollitia aut atque aut.
                   </p>
-                  <img src="assets/img/blog/blog-inside-post.jpg" class="img-fluid" alt="">
+                  <img
+                    src="https://i.ytimg.com/vi/YdMeJh8i7w4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDUOn30-o1DFg3pYvxCHojpzClqCA"
+                    class="img-fluid" alt="">
 
                   <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
                   <p>

@@ -29,7 +29,7 @@
                     <div class="col-md-12 ">
                         <h5 class="text-start text-bold">Location</h5>
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15873.595498199173!2d80.5773903!3d5.9396338!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae13904aa7a00d9%3A0xba37fdf4d892a52b!2sFaculty%20of%20Technology!5e0!3m2!1sen!2slk!4v1729333373098!5m2!1sen!2slk"
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15869.98859836473!2d80.542009!3d6.063484!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae141585ad5987d%3A0x717cf948bd5444ff!2sFaculty%20of%20Technology%20-%20University%20of%20Ruhuna!5e0!3m2!1sen!2slk!4v1729334312111!5m2!1sen!2slk"
                             width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
